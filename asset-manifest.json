@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Huichoman/mom-plot-search.git/static/css/main.d633cca5.css",
-    "main.js": "/Huichoman/mom-plot-search.git/static/js/main.657b7946.js",
-    "index.html": "/Huichoman/mom-plot-search.git/index.html",
-    "main.d633cca5.css.map": "/Huichoman/mom-plot-search.git/static/css/main.d633cca5.css.map",
-    "main.657b7946.js.map": "/Huichoman/mom-plot-search.git/static/js/main.657b7946.js.map"
+    "main.css": "/Huichoman/mom-plot-search/static/css/main.d633cca5.css",
+    "main.js": "/Huichoman/mom-plot-search/static/js/main.657b7946.js",
+    "index.html": "/Huichoman/mom-plot-search/index.html",
+    "main.d633cca5.css.map": "/Huichoman/mom-plot-search/static/css/main.d633cca5.css.map",
+    "main.657b7946.js.map": "/Huichoman/mom-plot-search/static/js/main.657b7946.js.map"
   },
   "entrypoints": [
     "static/css/main.d633cca5.css",
