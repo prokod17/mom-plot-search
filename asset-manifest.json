@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mom-plot-search/static/css/main.0266d1f9.css",
-    "main.js": "/mom-plot-search/static/js/main.68dc5bd4.js",
+    "main.css": "/mom-plot-search/static/css/main.f9223dfc.css",
+    "main.js": "/mom-plot-search/static/js/main.5ee015ed.js",
     "index.html": "/mom-plot-search/index.html",
-    "main.0266d1f9.css.map": "/mom-plot-search/static/css/main.0266d1f9.css.map",
-    "main.68dc5bd4.js.map": "/mom-plot-search/static/js/main.68dc5bd4.js.map"
+    "main.f9223dfc.css.map": "/mom-plot-search/static/css/main.f9223dfc.css.map",
+    "main.5ee015ed.js.map": "/mom-plot-search/static/js/main.5ee015ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.0266d1f9.css",
-    "static/js/main.68dc5bd4.js"
+    "static/css/main.f9223dfc.css",
+    "static/js/main.5ee015ed.js"
   ]
 }
