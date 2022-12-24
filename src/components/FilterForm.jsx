@@ -59,6 +59,7 @@ export const FilterForm = () => {
           <option value="teashop">teashop</option>
           <option value="training_hall">training_hall</option>
           <option value="water_filter">water_filter</option>
+          <option value="composter">composter</option>
         </select>
       </div>
 
