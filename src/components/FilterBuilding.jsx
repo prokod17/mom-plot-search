@@ -50,6 +50,7 @@ export const FilterBuilding = ({ onNewBuilding, onNewRarity }) => {
           <option value="cantina">cantina</option>
           <option value="chem_lab">chem_lab</option>
           <option value="concrete_habitat">concrete_habitat</option>
+          <option value="composter">composter</option>
           <option value="engineering_bay">engineering_bay</option>
           <option value="gallery">gallery</option>
           <option value="greenhouse">greenhouse</option>
@@ -68,7 +69,6 @@ export const FilterBuilding = ({ onNewBuilding, onNewRarity }) => {
           <option value="teashop">teashop</option>
           <option value="training_hall">training_hall</option>
           <option value="water_filter">water_filter</option>
-          <option value="composter">composter</option>
         </select>
       </div>
 
