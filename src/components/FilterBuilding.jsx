@@ -70,6 +70,15 @@ export const FilterBuilding = ({ onNewBuilding, onNewRarity }) => {
           <option value="thorium-reactor">thorium-reactor</option>
           <option value="training_hall">training_hall</option>
           <option value="water_filter">water_filter</option>
+          <option value="commissary">commissary</option>
+          <option value="rocket-fuel-factory">rocket-fuel-factory</option>
+          <option value="vulcan-metalworks">vulcan-metalworks</option>
+          <option value="ground-control">ground-control</option>
+          <option value="fuel-tank">fuel-tank</option>
+          <option value="launch-pad">launch-pad</option>
+          <option value="velociraptor_engine_factory">velociraptor_engine_factory</option>
+          <option value="hangar">hangar</option>
+          <option value="hopper">hopper</option>
         </select>
       </div>
 
